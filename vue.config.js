@@ -1,6 +1,6 @@
 // vue.config.js
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/vue-print/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue-excel/' : '/',
 
   configureWebpack: {
     resolve: {
